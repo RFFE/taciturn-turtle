@@ -2,7 +2,6 @@
   "name": "rffe-helloworld",
   "version": "0.0.0",
   "private": true,
-  "directory": "vendor",
   "dependencies": {
     "modernizr": "~3.2.0"
   }
