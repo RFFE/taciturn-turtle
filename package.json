@@ -1,0 +1,17 @@
+{
+  "name": "rffe-helloworld",
+  "description": "Learning things",
+  "version": "0.0.0",
+  "repostiory": {
+    "type": "git",
+    "url": "git@github.com:RFFE/taciturn-turtle.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.1.0",
+    "load-grunt-tasks": "^3.3.0"
+  }
+}

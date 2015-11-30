@@ -1,4 +1,3 @@
 # Kick the tires with github education
 
-## Now what?
-
+## Don't edit anything in the dist folder!
